@@ -1,0 +1,5 @@
+- Ghost facing the [[Minor Erdtree]] on the cliff behind [[Waypoint Ruins]]
+	- "O Sapling! Sweet Sapling of glorious gold."
+	- "Has your [[crystal teardrop]] ripened?"
+- Night's Calvery on bridge
+	- [[Ash of War- Repeating Thrust]]

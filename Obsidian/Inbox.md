@@ -1,0 +1,5 @@
+- Patches first meeting (google it and follow a video for dialogue, but you still gotta do the merchant inventory too part)
+- Partisan
+- Gilded Greatshield
+- Larval Tear
+- Ash of War- Repeating Thrust

@@ -1,0 +1,26 @@
+### Dialogue
+- On rock near [[Bridge of Sacrifice]] grace, first meeting
+	- "Hello? Is somebody there?"
+	- "Might I bend your ear for a moment, please."
+	- "My name is [[Irena]]. I've escaped from [[Castle Morne]], to the south."
+	- "The servants there...have rebelled."
+	- "I-I can't be sure what it is; my eyesight's been weak since birth you see..."
+	- "But I swear I heard frightful howling from all over."
+	- "My good father secreted me out the castle, but decided himself to stay. He says it's his duty, as commander."
+	- >
+	- "I...I fear for father's life."
+	- "The servants are full wroth. Filled with hatred for every one of us."
+	- "They've since come for every one of the companions I escaped with. They haven't spared a soul."
+	- "I fear it's noi different at [[Castle Morne]]..."
+	- "Please, I implore you."
+	- "Would you mind taking a letter to my father, at the castle?"
+	- "My sole wish is that he escape, even if his honour should be the price."
+	- "Please...I just want him to be safe..."
+	- >Deliver the Letter
+	- "Thank you, dearly."
+	- "Then please, take this."
+		- [[Irina's Letter]]
+	- "Deliver it to my father, who remains in the castle, if you please."
+	- >
+	- "Please, if you wouldn't mind. Deliver the letter to my father at the castle."
+	- "He can be stubborn, but I'm sure he'll come around."

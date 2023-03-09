@@ -1,0 +1,43 @@
+### Physical Features
+- Left Eye is missing/permanently closed and features a black mark
+
+### Dialogue
+- During levelup: 
+	- "Shall I turn your runes to strength? Share them with me, your thoughts, your ambitions. The principles you would follow."
+- [[Gatefront]]
+	- "Greetings. Traveller from beyond the Fog. I am Melina. I offer you an Accord"
+	- "Have you heard of the [[Finger Maiden]]s? They serve the [[Two Fingers]], offering guidance, and aid, to the [[Tarnished]]. But you, I am afraid, are maidenless. I can play the role of [[Maiden]]. Turning runes into strength. To aid you in your search for the [[Elden Ring]]. You need only take me with you. To the foot of the [[Erdtree]]"
+	- >Accept
+	- "Then it's settled. Summon me by grace to turn runes into strength. Ahh, another matter. I bequeath to you this Ring."
+		- [[Spectral Steed Whistle]]
+	- "Use it to traverse great distances. it will summon a spectral steed named [[Torrent]]. Torrent has chosen you. Treat him with respect."
+- [[Sites of Grace/Limgrave/Church of Elleh]]
+	- "This tiny golden aura is the [[Grace]] of the [[Erdtree]]."
+	- "This light once shone in the eyes of your [[Tarnished]] bretheren."
+	- "But now it is all that guides you. Or so I hear."
+	- "You can see them, can't you?"
+	- "The rays of [[Grace]], that guide you through your burden."
+	- ---
+	- "Upon the cliff, in Castle [[Stormveil]], is a shardbearer."
+	- "A [[demigod]] who inherited a fragment of the shattered [[Elden Ring]]." #Shattering 
+	- "If the rays of [[Grace]] signal the castle, then the [[Elden Ring]] beckons you."
+	- "As an ally by pact, I pray that you are fit..."
+	- "To face the challenge presented by the Ring ([[Elden Ring]])."
+- [[Murkwater Coast]]
+	- "Me?"
+	- "I'm searching."
+	- "For my purpose, given to me by my mother inside the [[Erdtree]], long ago."
+	- "For the reason that I yet live, burned and bodiless."
+	- "There is something for which I must apologize."
+	- "I've acted the [[Finger Maiden]], yet can offer no guidance."
+	- "I am no [[maiden]]. My purpose...was long ago lost."
+- [[Sites of Grace/Limgrave/Third Church of Marika]]
+	- "Spoken echoes linger here."
+	- "Words of Queen [[Marika]], who vanished long ago."
+	- "If you wish, I will share them with you."
+	- >I am interested
+	- "Very well. In [[Marika]]'s own words."
+	- "My Lord, and thy warriors. I divest each of thee of thy [[grace]]."
+	- "With thine eyes dimmed, ye will be driven from the [[Lands Between]]."
+	- "Ye will wage war in a land afar, where ye will live, and die."
+	- "Well? Perhaps that might serve you in lieu of a [[maiden]]'s guidance."

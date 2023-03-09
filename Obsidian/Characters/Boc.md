@@ -1,0 +1,11 @@
+- Encounter near [[Agheel Lake North]] during daytime.
+	- "Oi, you there, could you help us out there cully?"
+	- "Stop pretending you can't see me!"
+	- "Why won't anyone look me in the eye? I- I'm not that ugly, am I?"
+	- Roll into the bush
+	- "Ow! What'd you go an do that for?"
+	- "Hm? Oh, yes, I remember. Some clod turned me into a tree."
+	- "Name's Boc. I was pushed out of the cave. Told not to come back, not ever. Then I was turned into a tree. Lucky you came along realy."
+	- "Oh, what a shame. When they threw me out of the cave, they took everything I owned. So this is all I have to express my thanks. I hope you can forgive me."
+	- "Or, if you can afford to wait for a while, I could sneak back into the cave and bring back something of actual value. Then I'd be of some real use to you I reckon."
+	- "Right, but I'll need a moment.I'm frightened of them.. So I have to gather myself. My knees start knockin' ...just htinking about that godawful cave on the shore..."

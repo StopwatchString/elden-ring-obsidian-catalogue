@@ -1,0 +1,32 @@
+### Dialogue
+- On top of ruins piece in East [[Limgrave]]
+	- >approaching
+	- "Hello? is anybody there?"
+	- "Someone who might be interested in rescuing the great Kenneth Haight?"
+	- "Servant to the [[true Order]], and celebrated repudiator of the false!"
+	- "O [[Erdtree]]! Grant me succor!"
+	- >
+	- "Ah, you've come to lend me your aid, have you?"
+	- "Well that's very kind, but, um..."
+	- "No, no. Th-the help is very much appreciated. Even from a [[Tarnished]]."
+	- "Despite appearances, nobility is no prerequisite to serving the [[true Order]]."
+	- "You might have heard of me. Kenneth Haight. Next in line as the rightful ruler of [[Limgrave]]."
+	- "Young [[Tarnished]], I would have a boon of you."
+	- "I want you to take back my fort. It lies to teh south, beyond the [[Mistwood]]."
+	- "A Knight commander from [[Stormveil]] took it. A fool, and plumb mad to boot. Simply obsessed with blood!"
+	- >
+	- "What are you waiting for? A kiss goodbye?"
+	- "My fort lies to the south, beyond the [[Mistwood]]. Take it back for me."
+	- "Oh I see. You wish to know the reward?"
+	- "Fret not, the great Kenneth Haight is known for his considerable largesse."
+	- "The celebrations will be lavish indeed, upon the dawn of my fort's retrieval."
+	- >
+	- "Hmph, yes, now allow me to furnish you with a little advice."
+	- "I would take great care to avoid [[Godrick]]'s [[Tarnished]] hunts, were I in your shoes."
+	- "That depraved lot are absessed with sacrificing [[Tarnished]] like you for the sake of "[[grafting]]"."
+	- "Honestly, [[Godrick]]'s nothing more than a jumped up country bumpkin. Lord? Don't make me laugh."
+	- "First he hid himself amongst the womenfolk to flee the capital, then hid from [[Radahn]] in that castle..."
+	- "Then he insulted [[Malenia]], lost to her in battle, only to lick her boots rather than die like a man."
+	- "Has he no shame, the big girl's blouse?"
+	- "And to think, he's the blood of [[Godfrey]]! Last of the [[golden lineage]], though you almost wouldn't know it to look at him."
+	- "I almost feel sorry ofr the chap the more I think of it."
