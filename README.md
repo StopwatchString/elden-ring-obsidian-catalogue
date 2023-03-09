@@ -12,4 +12,4 @@ In this repo expect to find
 
 This was created with the note-taking program [Obsidian](https://Obsidian.md), and is needed to view the graph view as depicted below-
 
-[test](/assets/graph-view.png)
+![graph-view](assets/graph-view.png)
